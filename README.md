@@ -78,13 +78,3 @@ $ npm start
 `GET /users/:id`<br>
 `PATCH /users/:id`<br>
 `DELETE /users/:id`
-
-## Query examples
-
-- Get all books:
-
-  [bookstore-73510.herokuapp.com/api/books](https://bookstore-73510.herokuapp.com/api/books)
-
-- Get book by id:
-
-  [bookstore-73510.herokuapp.com/api/books/1](https://bookstore-73510.herokuapp.com/api/books/1)

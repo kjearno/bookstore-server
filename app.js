@@ -15,8 +15,11 @@ const { usersRouter } = require("@features/users");
 
 const { AppError, errorHandler } = require("@lib/errors");
 const { rateLimitHandler } = require("@lib/handlers");
+const { homeRouter } = require("@lib/routers");
 
 const app = express();
+
+app.enable("trust proxy");
 
 const apiLimiter = rateLimit({
   windowMs: 15 * 60 * 1000,
@@ -34,6 +37,7 @@ app.use(express.static("public"));
 app.use(hpp());
 
 // 2) API routes
+app.use("/api", homeRouter);
 app.use("/api/auth", authRouter);
 app.use("/api/authors", authorsRouter);
 app.use("/api/books", booksRouter);
