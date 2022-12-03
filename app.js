@@ -44,7 +44,7 @@ app.use("/api/books", booksRouter);
 app.use("/api/categories", categoriesRouter);
 app.use("/api/users", usersRouter);
 
-app.all("*", (req, res) => {
+app.all("*", (req) => {
   throw new AppError(404, `Can't find ${req.originalUrl}`);
 });
 
