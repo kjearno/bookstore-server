@@ -394,7 +394,8 @@ module.exports = {
           title: "Jane Eyre",
           description:
             "Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse qui quaerat ex vero fugiat! Sequi vel maxime perspiciatis distinctio excepturi eos animi, molestiae eum sit corporis vitae veniam, odit mollitia, quisquam quae facilis impedit cupiditate facere? Architecto rerum minima quidem, velit reiciendis culpa repudiandae atque perspiciatis sequi pariatur fugiat, a autem blanditiis, unde cumque eius aperiam saepe laborum voluptatem iusto? In incidunt consectetur eos aliquam perspiciatis placeat unde, officia quas!",
-          cover: "https://bookstore-1qr1.onrender.com/covers/romance-novels/1.jpg",
+          cover:
+            "https://bookstore-1qr1.onrender.com/covers/romance-novels/1.jpg",
           price: 4.99,
           author_id: 35,
           category_id: 9,
@@ -405,7 +406,8 @@ module.exports = {
           title: "Maurice",
           description:
             "Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse qui quaerat ex vero fugiat! Sequi vel maxime perspiciatis distinctio excepturi eos animi, molestiae eum sit corporis vitae veniam, odit mollitia, quisquam quae facilis impedit cupiditate facere? Architecto rerum minima quidem, velit reiciendis culpa repudiandae atque perspiciatis sequi pariatur fugiat, a autem blanditiis, unde cumque eius aperiam saepe laborum voluptatem iusto? In incidunt consectetur eos aliquam perspiciatis placeat unde, officia quas!",
-          cover: "https://bookstore-1qr1.onrender.com/covers/romance-novels/2.jpg",
+          cover:
+            "https://bookstore-1qr1.onrender.com/covers/romance-novels/2.jpg",
           price: 6.99,
           author_id: 36,
           category_id: 9,
@@ -416,7 +418,8 @@ module.exports = {
           title: "The Princess Bride",
           description:
             "Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse qui quaerat ex vero fugiat! Sequi vel maxime perspiciatis distinctio excepturi eos animi, molestiae eum sit corporis vitae veniam, odit mollitia, quisquam quae facilis impedit cupiditate facere? Architecto rerum minima quidem, velit reiciendis culpa repudiandae atque perspiciatis sequi pariatur fugiat, a autem blanditiis, unde cumque eius aperiam saepe laborum voluptatem iusto? In incidunt consectetur eos aliquam perspiciatis placeat unde, officia quas!",
-          cover: "https://bookstore-1qr1.onrender.com/covers/romance-novels/3.jpg",
+          cover:
+            "https://bookstore-1qr1.onrender.com/covers/romance-novels/3.jpg",
           price: 12.43,
           author_id: 37,
           category_id: 9,
@@ -427,7 +430,8 @@ module.exports = {
           title: "Romeo and Juliet",
           description:
             "Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse qui quaerat ex vero fugiat! Sequi vel maxime perspiciatis distinctio excepturi eos animi, molestiae eum sit corporis vitae veniam, odit mollitia, quisquam quae facilis impedit cupiditate facere? Architecto rerum minima quidem, velit reiciendis culpa repudiandae atque perspiciatis sequi pariatur fugiat, a autem blanditiis, unde cumque eius aperiam saepe laborum voluptatem iusto? In incidunt consectetur eos aliquam perspiciatis placeat unde, officia quas!",
-          cover: "https://bookstore-1qr1.onrender.com/covers/romance-novels/4.jpg",
+          cover:
+            "https://bookstore-1qr1.onrender.com/covers/romance-novels/4.jpg",
           price: 12.68,
           author_id: 38,
           category_id: 9,
@@ -438,7 +442,8 @@ module.exports = {
           title: "Gone with the Wind",
           description:
             "Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse qui quaerat ex vero fugiat! Sequi vel maxime perspiciatis distinctio excepturi eos animi, molestiae eum sit corporis vitae veniam, odit mollitia, quisquam quae facilis impedit cupiditate facere? Architecto rerum minima quidem, velit reiciendis culpa repudiandae atque perspiciatis sequi pariatur fugiat, a autem blanditiis, unde cumque eius aperiam saepe laborum voluptatem iusto? In incidunt consectetur eos aliquam perspiciatis placeat unde, officia quas!",
-          cover: "https://bookstore-1qr1.onrender.com/covers/romance-novels/5.jpg",
+          cover:
+            "https://bookstore-1qr1.onrender.com/covers/romance-novels/5.jpg",
           price: 18.23,
           author_id: 39,
           category_id: 9,
@@ -449,7 +454,8 @@ module.exports = {
           title: "A Walk to Remember",
           description:
             "Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse qui quaerat ex vero fugiat! Sequi vel maxime perspiciatis distinctio excepturi eos animi, molestiae eum sit corporis vitae veniam, odit mollitia, quisquam quae facilis impedit cupiditate facere? Architecto rerum minima quidem, velit reiciendis culpa repudiandae atque perspiciatis sequi pariatur fugiat, a autem blanditiis, unde cumque eius aperiam saepe laborum voluptatem iusto? In incidunt consectetur eos aliquam perspiciatis placeat unde, officia quas!",
-          cover: "https://bookstore-1qr1.onrender.com/covers/romance-novels/6.jpg",
+          cover:
+            "https://bookstore-1qr1.onrender.com/covers/romance-novels/6.jpg",
           price: 12.35,
           author_id: 40,
           category_id: 9,
@@ -460,7 +466,8 @@ module.exports = {
           title: "The Thorn Birds",
           description:
             "Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse qui quaerat ex vero fugiat! Sequi vel maxime perspiciatis distinctio excepturi eos animi, molestiae eum sit corporis vitae veniam, odit mollitia, quisquam quae facilis impedit cupiditate facere? Architecto rerum minima quidem, velit reiciendis culpa repudiandae atque perspiciatis sequi pariatur fugiat, a autem blanditiis, unde cumque eius aperiam saepe laborum voluptatem iusto? In incidunt consectetur eos aliquam perspiciatis placeat unde, officia quas!",
-          cover: "https://bookstore-1qr1.onrender.com/covers/romance-novels/7.jpg",
+          cover:
+            "https://bookstore-1qr1.onrender.com/covers/romance-novels/7.jpg",
           price: 4.99,
           author_id: 41,
           category_id: 9,

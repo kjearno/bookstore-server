@@ -4,7 +4,6 @@
 
 - Node.js
 - Express
-- PostgreSQL
 
 ## Installation
 
